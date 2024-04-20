@@ -1,0 +1,16 @@
+html {
+  background-color: #e2e8f3;
+}
+ align-content::after
+img{
+  width: 500px;
+  height: auto;
+}
+
+input{
+  display: block;
+  width: 500px;
+  border-radius:20px;
+  padding-block-end: ;
+  margin-bottom: 30px;
+}
